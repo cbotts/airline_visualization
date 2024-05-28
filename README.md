@@ -4,6 +4,14 @@ Use data to create and present effective visualizations
 ## Objective 
 From the perspective of an airline, create data visualizations that effectively explain the safeness of aircraft travel. 
 
+## How to Run
+```
+gh repo clone cbotts/airline_visualization/
+open airline_blog.pdf
+open airline_Infographic.pdf
+open airline_ExecutivePPTX.pdf
+```
+
 ## Data 
 The various sources used in this project are listed below. It includes information about governmental operations as well as datasets of flight records and automobile accidents. 
 
